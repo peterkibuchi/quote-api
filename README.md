@@ -1,4 +1,4 @@
-# Project Name
+# Quote API
 > A small Express.js web API that stores and serves different quotes about computers, coding, and technology.
 
 ## Table of Contents
